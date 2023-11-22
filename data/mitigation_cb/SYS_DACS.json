@@ -1,0 +1,58 @@
+{
+  "name": "mitigation_cb",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          3113.46025345454
+        ],
+        [
+          2026,
+          4042.68345544773
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          4512.94760541127
+        ]
+      ]
+    },
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          1687.64194994209
+        ],
+        [
+          2026,
+          889.340644005056
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2026,
+          2515.95575725568
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2030,
+          6505.36132904153
+        ]
+      ]
+    }
+  ]
+}
