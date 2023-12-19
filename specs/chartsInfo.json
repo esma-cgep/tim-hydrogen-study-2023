@@ -1837,6 +1837,7 @@
       "SEAI_COAL",
       "SEAI_ELECTRICITY",
       "SEAI_HEAT",
+      "SEAI_HYDROGEN",
       "SEAI_NATGAS",
       "SEAI_OIL",
       "SEAI_OTHER_RENEWABLES",
@@ -1847,13 +1848,14 @@
       "#161315",
       "#F2CD60",
       "#9C427F",
+      "#F26430",
       "#B0B2B8",
       "#8B6318",
       "#333EE6",
       "#7A5C61"
     ],
     "unit": "PJ",
-    "maxY": 763,
+    "maxY": 766,
     "minY": 0
   },
   "SYS_NRG-Import": {
@@ -2367,6 +2369,30 @@
     ],
     "unit": "kt",
     "maxY": 9304,
+    "minY": 0
+  },
+  "SYS_FEC-H2_Sector": {
+    "seriesNames": [
+      "FT_IND",
+      "FT_TRA"
+    ],
+    "colorScale": [
+      "#A7398C",
+      "#D99C2B"
+    ],
+    "unit": "PJ",
+    "maxY": 3,
+    "minY": 0
+  },
+  "SUP_HYDROGEN": {
+    "seriesNames": [
+      "SH2PELC_01L"
+    ],
+    "colorScale": [
+      "#C367A1"
+    ],
+    "unit": "PJ",
+    "maxY": 13,
     "minY": 0
   }
 }
