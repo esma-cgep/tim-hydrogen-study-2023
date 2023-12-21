@@ -419,6 +419,7 @@
   "SRVLPG": "LPG",
   "SRVOIL": "Oil",
   "SRVSOL": "Solar",
+  "STG_ELCC": "Storage",
   "SUPH2GC": "Hydrogen",
   "SUPH2GD": "Hydrogen",
   "TRABDL": "Biodiesel",
@@ -439,5 +440,7 @@
   "TRAPS": "Short-range",
   "VAR": "Variable",
   "VARX": "Var. taxes/subs.",
+  "VAR_FIn": "In",
+  "VAR_FOut": "Out",
   "WLK": "Walking"
 }

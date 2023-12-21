@@ -63,17 +63,40 @@
   },
   {
     "path": "supply",
-    "charts": ["SUP_BIODST", "SUP_BIOETH", "SUP_BIOGAS", "SUP_HYDROGEN"]
+    "routes": [
+      {
+		"path": "biofuel",
+		"charts": ["SUP_BIODST", "SUP_BIOETH", "SUP_BIOGAS"]  
+	  },
+	  {
+		"path": "hydrogen",
+        "charts": ["SUP_Cap-H2", "SUP_Cap-H2-N", "SUP_HYDROGEN", "SUP_STG_Cap-H2", "SUP_STG_Cap-H2-N", "SUP_STG_Flows-H2-In", "SUP_STG_Flows-H2-Out"]		
+	  }
+	]
   },
   {
     "path": "power",
-    "charts": [
-      "PWR_Cap",
-      "PWR_Cap-N",
-      "PWR_Emissions-CO2",
-      "PWR_Gen-ELCC",
-      "PWR_Gen-HETC"
-    ]
+	"routes": [
+	  {
+		"path": "generation",
+		"charts": [
+          "PWR_Cap",
+          "PWR_Cap-N",
+          "PWR_Gen-ELCC",
+          "PWR_Gen-HETC",
+	      "PWR_Emissions-CO2"
+		]
+	  },
+	  {
+		"path": "storage",
+		"charts": [
+		  "PWR_STG_Cap-ELCC",
+		  "PWR_STG_Cap-ELCC-N",
+		  "PWR_STG_Flows-ELCC-In",
+		  "PWR_STG_Flows-ELCC-Out"
+		]
+	  }
+	]
   },
   {
     "path": "transport",

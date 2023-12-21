@@ -2032,6 +2032,17 @@
     "maxY": 28,
     "minY": 0
   },
+  "PWR_STG_Cap-ELCC": {
+    "seriesNames": [
+      "STG_ELCC"
+    ],
+    "colorScale": [
+      "#9B0824"
+    ],
+    "unit": "GW",
+    "maxY": 9,
+    "minY": 0
+  },
   "TRA_FEC": {
     "seriesNames": [
       "TRABDL",
@@ -2309,6 +2320,17 @@
     "maxY": 2,
     "minY": 0
   },
+  "PWR_STG_Cap-ELCC-N": {
+    "seriesNames": [
+      "STG_ELCC"
+    ],
+    "colorScale": [
+      "#7072F9"
+    ],
+    "unit": "GW",
+    "maxY": 2,
+    "minY": 0
+  },
   "TRA_FEC-TRABJK_Mode_Detailed": {
     "seriesNames": [
       "DMD_TRA-R-AVIDOM"
@@ -2350,6 +2372,28 @@
     "maxY": 3,
     "minY": 0
   },
+  "SUP_Cap-H2": {
+    "seriesNames": [
+      "SH2PELC_01L"
+    ],
+    "colorScale": [
+      "#C367A1"
+    ],
+    "unit": "GW",
+    "maxY": 2,
+    "minY": 0
+  },
+  "SUP_Cap-H2-N": {
+    "seriesNames": [
+      "SH2PELC_01L"
+    ],
+    "colorScale": [
+      "#C367A1"
+    ],
+    "unit": "GW",
+    "maxY": 1,
+    "minY": 0
+  },
   "SUP_HYDROGEN": {
     "seriesNames": [
       "SH2PELC_01L"
@@ -2359,6 +2403,28 @@
     ],
     "unit": "PJ",
     "maxY": 6,
+    "minY": 0
+  },
+  "PWR_STG_Flows-ELCC-In": {
+    "seriesNames": [
+      "VAR_FIn"
+    ],
+    "colorScale": [
+      "#2B683B"
+    ],
+    "unit": "PJ",
+    "maxY": 26,
+    "minY": 0
+  },
+  "PWR_STG_Flows-ELCC-Out": {
+    "seriesNames": [
+      "VAR_FOut"
+    ],
+    "colorScale": [
+      "#3DBFF4"
+    ],
+    "unit": "PJ",
+    "maxY": 23,
     "minY": 0
   }
 }

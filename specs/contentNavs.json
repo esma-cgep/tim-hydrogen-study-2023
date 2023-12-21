@@ -30,6 +30,22 @@
     "variant": "underscore"
   },
   {
+	"path": "supply/*",
+    "links": [
+	  { "to": "biofuel", "text": "Biofuel" },
+	  { "to": "hydrogen", "text": "Hydrogen"}
+	],
+    "variant": "underscore"	
+  },
+  {
+	"path": "power/*",
+    "links": [
+	  { "to": "generation", "text": "Generation" },
+	  { "to": "storage", "text": "Storage"}
+	],
+    "variant": "underscore"	
+  },
+  {
     "path": "transport/*",
     "links": [
       { "to": "overview", "text": "Overview" },
