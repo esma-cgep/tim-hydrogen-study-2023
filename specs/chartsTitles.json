@@ -34,7 +34,7 @@
   "PWR_STG_Cap-ELCC": "Electricity Storage Capacity",
   "PWR_STG_Cap-ELCC-N": "New Electricity Storage Capacity",
   "PWR_STG_Flows-ELCC-In": "Electricity Storage Inflow",
-  "PWR_STG_Flows-ELCC-Out": "Electridity Storage Outflow",
+  "PWR_STG_Flows-ELCC-Out": "Electricity Storage Outflow",
   "RSD_BLD-N_TYPE": "New Dwellings by Type",
   "RSD_BLD_TYPE": "Number of Dwellings by Type",
   "RSD_CK_TYPE": "Cookers by Type",
