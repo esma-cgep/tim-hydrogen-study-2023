@@ -420,6 +420,7 @@
   "SRVOIL": "Oil",
   "SRVSOL": "Solar",
   "STG_ELCC": "Storage",
+  "STG_H2": "Storage",
   "SUPH2GC": "Hydrogen",
   "SUPH2GD": "Hydrogen",
   "TRABDL": "Biodiesel",

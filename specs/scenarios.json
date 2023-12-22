@@ -6,5 +6,13 @@
   {
     "name": "mitigation_cb",
     "variants": [{ "name": "mitigation_cb", "specs": null }]
+  },
+  {
+    "name": "mitigation_cb-dayniteh2",
+    "variants": [{ "name": "mitigation_cb-dayniteh2", "specs": null }]
+  },
+  {
+    "name": "mitigation_cb-dayniteh2-nobioccs",
+    "variants": [{ "name": "mitigation_cb-dayniteh2-nobioccs", "specs": null }]
   }
 ]

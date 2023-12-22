@@ -1,0 +1,62 @@
+{
+  "name": "mitigation_cb-dayniteh2-nobioccs",
+  "data": [
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2024,
+          143.30482717823
+        ],
+        [
+          2025,
+          1730.75812358687
+        ],
+        [
+          2026,
+          759.303833299326
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          2970.93116663114
+        ],
+        [
+          2026,
+          4079.23607681309
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          4554.45830452437
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2026,
+          2687.36773126368
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2030,
+          6123.43066940324
+        ]
+      ]
+    }
+  ]
+}

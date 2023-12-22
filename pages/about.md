@@ -2,6 +2,6 @@
 
 Here you can explore [results](/tim-hydrogen-study-2023/results) generated using [TIM](https://github.com/esma-cgep/tim)
 
-Last update: December 20th, 2023
+Last update: December 21th, 2023
 
-Model version: [148a443e](https://github.com/esma-cgep/TIM/tree/148a443e01ea56eb44eba91a1e954dd74c85f20e)
+Model version: [deded3d9](https://github.com/esma-cgep/TIM/tree/deded3d979175525813c59bf8579be41ce91a380)

@@ -1,4 +1,6 @@
 {
   "mitigation_cb": "Carbon Budget",
+  "mitigation_cb-dayniteh2": "Carbon Budget (H2-DN)",
+  "mitigation_cb-dayniteh2-nobioccs": "CB (H2-DN & No Bio CCS)",
   "no_mitigation": "No Mitigation"
 }

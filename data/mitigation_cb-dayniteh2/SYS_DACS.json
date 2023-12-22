@@ -1,0 +1,58 @@
+{
+  "name": "mitigation_cb-dayniteh2",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          3134.00737536939
+        ],
+        [
+          2026,
+          4079.23607681308
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          4581.78808103367
+        ]
+      ]
+    },
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          1684.66642993593
+        ],
+        [
+          2026,
+          915.121354060773
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2026,
+          2524.29152252543
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2030,
+          6573.71723278249
+        ]
+      ]
+    }
+  ]
+}
